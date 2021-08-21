@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Jizo Arakkal Poulose👋
 
-[![Twitter Follow](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ## I'm a Developer, and Machine Learning Engineer!!
 
 - 🌱 I’m currently learning and researching Machine Learning and Deep Learning
